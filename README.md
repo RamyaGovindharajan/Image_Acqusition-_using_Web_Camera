@@ -1,7 +1,7 @@
 # Image Acquisition using Web Camera
 
-### Name : Kishore B
-### Register No : 212224100032
+### Name : RAMYA G
+### Register No : 212224220078
 
 ## Aim:
  
